@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-01-18 01:48\n"
+"PO-Revision-Date: 2021-03-18 09:47\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "MIME-Version: 1.0\n"
@@ -28,13 +28,22 @@ msgstr "5"
 msgid "10"
 msgstr "10"
 
+msgid "40"
+msgstr "40"
+
+msgid "50"
+msgstr "50"
+
 msgid "404"
 msgstr "404"
 
-msgid " (account created)"
+msgid "500"
+msgstr "500"
+
+msgid " (Region added)"
 msgstr ""
 
-msgid " (unavailable)"
+msgid " (Temporarily unavailable)"
 msgstr ""
 
 msgid " All calls are recorded for training and monitoring purposes."
@@ -433,6 +442,9 @@ msgstr "Os sistemas %1 já processam mais de 1 milhão de transações/dia (incl
 msgid "%124/7 customer support%2 to enhance your trading experience"
 msgstr "%124/7 suporte ao cliente%2 para melhorar sua experiência de negociação"
 
+msgid "%1Choose a currency%2 for your fiat currency account:"
+msgstr "%1Escolha uma moeda%2 para sua conta em moeda fiduciária:"
+
 msgid "%1Contact us%2 to arrange a date and time for the video call."
 msgstr "%1Contate-nos%2 para agendar uma data e hora para a chamada de vídeo."
 
@@ -447,6 +459,9 @@ msgstr "%1 Gerencie suas contas %2"
 
 msgid "%1No, change my fiat account's currency now%2"
 msgstr "%1Não, mude a moeda da minha conta fiduciária agora%2"
+
+msgid "%1Note%2: These limits are only applicable to your %3 real account. To set limits, switch to the respective account and set your limits accordingly."
+msgstr "%1Nota%2: esses limites são aplicáveis ​​apenas à sua conta real de %3. Para impor os limites, mude para sua conta real e defina seus limites."
 
 msgid "%1Please note that if you live in the United Kingdom, self-exclusion cannot be removed until its period has expired. %2If you wish to resume trading after your self-exclusion period is over, please make your request by calling %3. Requests by chat or email shall not be entertained."
 msgstr "\n"
@@ -506,6 +521,13 @@ msgstr "(d) Probabilidade de liquidação"
 msgid "(e) Size and nature"
 msgstr "(e) Dimensão e natureza"
 
+msgid "*Cryptocurrency pairs are not available for DMT5 Financial accounts registered with Deriv (V) Ltd."
+msgstr "\n"
+"* Os pares de criptomoedas não estão disponíveis para contas financeiras DMT5 registradas com Deriv (V) Ltd."
+
+msgid "+ Add region"
+msgstr ""
+
 msgid "0 – 19.999%"
 msgstr "0 a 19,999%"
 
@@ -518,14 +540,8 @@ msgstr "0-1 ano"
 msgid "0-5 transactions in the past 12 months"
 msgstr "0-5 transações nos últimos 12 meses"
 
-msgid "0.2%"
-msgstr "0.2%"
-
 msgid "0.20"
 msgstr "0,20"
-
-msgid "0.3%"
-msgstr "0,3%"
 
 msgid "0.4%"
 msgstr "0.4%"
@@ -550,9 +566,6 @@ msgstr "1%"
 
 msgid "1-2 years"
 msgstr "1-2 anos"
-
-msgid "1. Close all open positions"
-msgstr ""
 
 msgid "1. Proof of identity"
 msgstr "1. Comprovante de identidade"
@@ -596,18 +609,15 @@ msgstr "Preços bidirecionais"
 msgid "2. Selfie with proof of ID"
 msgstr "2. Selfie com comprovante de identidade"
 
-msgid "2. Withdraw your funds"
-msgstr ""
-
 msgid "2. Your desktop window stays open"
 msgstr "2. A janela da sua área de trabalho permanece aberta"
 
 msgid "20 – 39.999%"
 msgstr "20 a 39,999%"
 
-msgid "2020 Binary | All rights reserved"
+msgid "2021 Binary | All rights reserved"
 msgstr "\n"
-"2020 Binary | Todos os direitos reservados"
+"2021 Binary | Todos os direitos reservados"
 
 msgid "3.50"
 msgstr "3,50"
@@ -837,6 +847,9 @@ msgstr "Um diploma universitário, ou outras qualificações profissionais relev
 
 msgid "A whole new easy-to-use platform that's rich with features."
 msgstr "Uma plataforma totalmente nova e fácil de usar, cheia de recursos."
+
+msgid "A word by itself is easy to guess"
+msgstr "Uma palavra por si só é fácil de adivinhar"
 
 msgid "A. Introduction"
 msgstr "A. Introdução"
@@ -1093,11 +1106,11 @@ msgstr "Adicionar"
 msgid "Add +/– to define a barrier offset. For example, +0.005 means a barrier that's 0.005 higher than the entry spot."
 msgstr "Acrescente +/- para definir uma deslocação de barreira. Por exemplo, +0.005 significa uma barreira que está 0.005 acima do preço de entrada."
 
+msgid "Add another word or two. Uncommon words are better."
+msgstr "Adicione outra palavra ou duas. Palavras incomuns são melhores."
+
 msgid "Add funds"
 msgstr "Adicionar fundos"
-
-msgid "Add more trade servers"
-msgstr ""
 
 msgid "Additional business exposure:"
 msgstr "Exposição comercial adicional:"
@@ -1301,6 +1314,10 @@ msgstr "Todas as informações que a empresa obtém sobre o cliente ajudam a emp
 msgid "All times are in GMT (Greenwich Mean Time)."
 msgstr "Todos os horários estão de acordo com o fuso horário GMT (Greenwich Mean Time)."
 
+msgid "All transactions"
+msgstr "\n"
+"Todas as transacções"
+
 msgid "All unforeseen openings or closings of positions initiated by the Expert Advisor, whether relevant to system error or otherwise, are out of the scope of the Company's responsibility; hence the Company is not liable for such actions or results."
 msgstr "Todas as aberturas ou fechamentos de posições não previstos e iniciados por consultores especializados, quer relevantes a erros do sistema ou outros, não serão abrangidos pela responsabilidade da Empresa. Portanto, a Empresa não se responsabiliza por tais ações ou resultados."
 
@@ -1309,6 +1326,9 @@ msgstr "Todas as versões de Android"
 
 msgid "All versions for iOS"
 msgstr "Todas as versões de iOS"
+
+msgid "All-uppercase is almost as easy to guess as all-lowercase"
+msgstr "Todas as letras maiúsculas são tão fáceis de adivinhar quanto as letras minúsculas"
 
 msgid "Allow Clients to deposit with lower amounts (via local currency)"
 msgstr "Permite que clientes depositem valores mais baixos (através da moeda local)"
@@ -1860,8 +1880,23 @@ msgstr "Tipos de negociação disponíveis:"
 msgid "Average"
 msgstr "Média"
 
+msgid "Avoid dates and years that are associated with you"
+msgstr "Evite datas e anos associados a você"
+
+msgid "Avoid recent years"
+msgstr "Evite os últimos anos"
+
+msgid "Avoid repeated words and characters"
+msgstr "Evite palavras e caracteres repetidos"
+
+msgid "Avoid sequences"
+msgstr "Evite sequências"
+
 msgid "Avoid the need to have an e-wallet"
 msgstr "Evite a necessidade de ter uma carteira eletrônica"
+
+msgid "Avoid years that are associated with you"
+msgstr "Evite anos que estão associados a você"
 
 msgid "Avoiding financial transactions that might reveal valuable passwords or personal information such as credit card numbers"
 msgstr "Evitar transações financeiras que possam revelar senhas valiosas ou informações pessoais, como números de cartão de crédito."
@@ -1878,8 +1913,20 @@ msgstr "B. Começando"
 msgid "B. Scope"
 msgstr "B. Escopo"
 
+msgid "BCH/USD"
+msgstr "BCH/USD"
+
+msgid "BNB vs US dollar"
+msgstr "BNB vs Dólar Americano"
+
+msgid "BNB/USD"
+msgstr "BNB/USD"
+
 msgid "BTC"
 msgstr "BTC"
+
+msgid "BTC/USD"
+msgstr "BTC/USD"
 
 msgid "Bachelor's degree in computer science, or an equivalent combination of technical education, training, and work experience"
 msgstr "Um grau de Bacharel em ciências da computação, ou uma combinação equivalente de ensino técnico, treinamento e experiência profissional"
@@ -1973,9 +2020,6 @@ msgstr "Antes de a Empresa abrir uma conta para o cliente no qual o cliente pode
 
 msgid "Before using the trading robots or Expert Advisors and forward trade, the client should test it on a demo account."
 msgstr "Antes de usar os robôs de negociação ou os Expert Advisors e o forward trade, o cliente deve testá-lo em uma conta de demonstração."
-
-msgid "Before you deactivate your account, you need to do the following:"
-msgstr ""
 
 msgid "Beginner"
 msgstr "Iniciante"
@@ -2394,6 +2438,9 @@ msgstr "Cancelar"
 msgid "Capacity to multitask, balance deadlines, and reliably deliver high-quality content"
 msgstr "A capacidade de ser versátil com as tarefas, gerir prazos e produzir conteúdos de alta qualidade confiavelmente"
 
+msgid "Capitalization doesn't help very much"
+msgstr "Letras maiúsculas não ajudam muito"
+
 msgid "Careers"
 msgstr "Carreiras"
 
@@ -2506,11 +2553,11 @@ msgstr "Verificando"
 msgid "Chief Executives, Senior Officials and Legislators"
 msgstr "Diretores executivos, oficiais seniores e legisladores"
 
+msgid "Choose a currency for your real account:"
+msgstr "Escolha uma moeda para sua conta real:"
+
 msgid "Choose a duration from 10 seconds to 365 days."
 msgstr "Escolha a duração do contrato, de 10 segundos até 365 dias."
-
-msgid "Choose a password"
-msgstr "Escolha uma senha"
 
 msgid "Choose a payout and our system will calculate the stake required to purchase the contract."
 msgstr "Escolha um pagamento de prêmio e o nosso sistema irá calcular a aposta necessária para a aquisição do contrato."
@@ -2519,7 +2566,7 @@ msgid "Choose a payout from $1 to $50,000."
 msgstr "Escolha um pagamento de $1 a $50.000."
 
 msgid "Choose a server for your MT5 %1 account:"
-msgstr ""
+msgstr "Escolha um servidor para a sua conta MT5 %1:"
 
 msgid "Choose an account"
 msgstr "Escolha uma conta"
@@ -2538,6 +2585,9 @@ msgstr "Escolha entre mais de um milhão de variações de negociação, a qualq
 
 msgid "Choose from three main trade types:"
 msgstr "Escolha entre três principais tipos de negociação:"
+
+msgid "Choose one or more cryptocurrency accounts:"
+msgstr "Escolha uma ou mais contas de criptomoeda:"
 
 msgid "Choose scopes:"
 msgstr "Escolha as permissões:"
@@ -2633,10 +2683,10 @@ msgid "Clients are also advised that their rights may be prejudiced if they prov
 msgstr "Os clientes também são avisados ​​de que seus direitos podem ser prejudicados se fornecerem informações erradas, pois a Empresa não estaria em condições de agir no melhor interesse deles."
 
 msgid "Clients from the rest of the world (excluding certain countries such as the USA, Canada, Hong Kong) who wish to trade CFDs on financial instruments and cryptocurrencies can have MetaTrader 5 accounts under Deriv (BVI) Ltd. %1 is not available in the British Virgin Islands."
-msgstr ""
+msgstr "Os clientes do resto do mundo (excluindo certos países como os EUA, Canadá, Hong Kong) que desejam negociar CFDs sobre instrumentos financeiros e criptomoedas podem ter contas MetaTrader 5 sob Deriv (BVI) Ltd. %1 não está disponível nas Ilhas Virgens Britânicas."
 
-msgid "Clients from the rest of the world (excluding certain countries such as the USA, Canada, Hong Kong) will have their FX and CFD Metatrader 5 account opened with Deriv (V) Ltd. %1 is not available in the Republic of Vanuatu."
-msgstr "As contas FX e CFD Metatrader 5 de clientes do resto do mundo (excluindo certos países como os EUA, Canadá e Hong Kong) serão abertas na Deriv (V) Ltd. A %1 não está disponível na República de Vanuatu."
+msgid "Clients from the rest of the world (excluding certain countries such as the USA, Canada, Hong Kong) will have their FX and CFD Metatrader 5 account opened with Deriv (V) Ltd. This company does not offer CFDs on cryptocurrencies. %1 is not available in the Republic of Vanuatu."
+msgstr "Clientes do resto do mundo (excluindo certos países como EUA, Canadá, Hong Kong) terão suas contas FX e CFD Metatrader 5 abertas com Deriv (V) Ltd. Esta empresa não oferece CFDs em criptomoedas. % 1 não está disponível na República de Vanuatu."
 
 msgid "Clients from the rest of the world (excluding certain countries such as the USA, Canada, and Hong Kong) will have their account opened with Deriv (SVG) LLC."
 msgstr "Clientes do resto do mundo (exceto alguns países, como EUA, Canadá e Hong Kong) terão suas contas abertas na Deriv (SVG) LLC."
@@ -2649,6 +2699,13 @@ msgstr "Os clientes têm a oportunidade de considerar se desejam pedir mais info
 
 msgid "Clients hereby declare that they are dealing with DIEL outside the scope of their economic or professional activity, and DIEL will therefore treat the client as an individual retail client for the purposes of EMIR compliance, unless advised otherwise."
 msgstr "Os clientes declaram que estão negociando com a DIEL fora do escopo de sua atividade econômica ou profissional, e a DIEL, portanto, tratará o cliente como um cliente de varejo individual para fins de conformidade com a EMIR, a menos que seja recomendado de outra forma."
+
+msgid "Clients in the European Union who wish to trade gambling products will have their accounts opened with Deriv (Europe) Limited."
+msgstr "\n"
+"Os clientes na União Europeia que desejam negociar produtos de jogo terão as suas contas abertas na Deriv (Europe) Limited."
+
+msgid "Clients in the Isle of Man and the UK who wish to trade gambling products will have their accounts opened with Deriv (MX) Ltd."
+msgstr "Os clientes na Ilha de Man e no Reino Unido que desejam comercializar produtos de jogo terão suas contas abertas na Deriv (MX) Ltd."
 
 msgid "Clients may trade on our platforms only when they are using their own money and are drawing on funds that have been acquired honestly. If you have any suspicion that clients are using money that has been acquired dishonestly, you must inform %1.  In such cases, we may decide to conduct checks on the client’s status and background. %2 management will decide what information needs to be reported to government officials and through what channels."
 msgstr "Os clientes podem negociar em nossas plataformas somente quando estiverem usando seu próprio dinheiro e utilizando fundos que foram adquiridos honestamente. Se você suspeitar que os clientes estão usando dinheiro que foi adquirido de forma desonesta, informe %1. Nesses casos, podemos decidir realizar verificações sobre o status e os antecedentes do cliente. A gerência do%2 decidirá quais  informações precisam ser relatadas aos funcionários do governo e por quais canais."
@@ -2704,6 +2761,9 @@ msgstr "Fechar todas ou algumas das posições abertas do cliente em um nível d
 msgid "Close identity verification screen"
 msgstr "Fechar tela de verificação de identidade"
 
+msgid "Close my account"
+msgstr "Fechar minha conta"
+
 msgid "Close your %1 account."
 msgstr "Feche sua conta %1."
 
@@ -2739,6 +2799,9 @@ msgstr "Fechando ou fechando parcialmente todas ou algumas das posições aberta
 
 msgid "Closing price"
 msgstr "Preço de fechamento"
+
+msgid "Closing your %1 accounts involves closing all open positions in your accounts, withdrawing your funds, and deactivating your accounts."
+msgstr "O fechamento de suas contas %1 envolve o fechamento de todas as posições em aberto em suas contas, a retirada de seus fundos e a desativação de suas contas."
 
 msgid "Cloudflare's public DNS service gives you more secure and faster web browsing."
 msgstr "O serviço DNS público proporciona-lhe uma experiência de navegação Web mais segura e rápida."
@@ -2808,6 +2871,9 @@ msgstr "Matérias-primas"
 
 msgid "Commodities are resources that are grown or extracted from the ground, such as silver, gold and oil. On %1, they are priced in US dollars."
 msgstr "As matérias-primas são recursos naturais valiosos, que são cultivados ou extraídos do solo, tais como a prata, o ouro e o petróleo. Na %1, os preços são apresentados em Dólar americano."
+
+msgid "Common names and surnames are easy to guess"
+msgstr "Nomes e sobrenomes comuns são fáceis de adivinhar"
 
 msgid "Communicate and collaborate effectively with members of different teams across the organisation."
 msgstr "Comunicar e colaborar de maneira eficaz com membros de equipes diferentes em toda a organização."
@@ -2920,9 +2986,6 @@ msgstr "Configure o seu computador e celular para usarem o DNS da Cloudflare ao 
 msgid "Confirm"
 msgstr "Confirmar"
 
-msgid "Confirm New Password"
-msgstr "Confirme a nova senha"
-
 msgid "Confirm changes"
 msgstr "Confirmar mudanças"
 
@@ -2986,9 +3049,6 @@ msgstr "Continue no telefone"
 msgid "Continue on your phone"
 msgstr "Continue no telefone"
 
-msgid "Continue to account deactivation"
-msgstr ""
-
 msgid "Continue trading"
 msgstr "Continue a negociar"
 
@@ -2999,7 +3059,7 @@ msgid "Continuous Indices – Choose from the Volatility 10 Index, Volatility 25
 msgstr "Índice Contínuos – Escolha dentre o Índice Volatilidade 10, o Índice Volatilidade 25, o Índice Volatilidade 50, o Índice Volatilidade 75 e o Índice Volatilidade 100. Estes índices correspondem a mercados simulados com volatilidades constantes de 10%, 25%, 50%, 75% e 100%, respectivamente."
 
 msgid "Contract"
-msgstr "Contrato"
+msgstr ""
 
 msgid "Contract Confirmation"
 msgstr "Confirmação de Contrato"
@@ -3275,17 +3335,14 @@ msgstr "Cripto"
 msgid "Cryptocurrencies"
 msgstr "Criptomoedas"
 
-msgid "Cryptocurrencies commission per round trade. For example, a round trade of 1 lot of BTC/USD with spot price of 10,000 USD will pay 30 USD on financial accounts and 20 USD on financial STP accounts."
-msgstr "Comissão de criptomoedas por rodada de negócios. Por exemplo, uma negociação redonda de 1 lote de BTC/USD com preço à vista de 10.000 USD pagará 30 USD nas contas financeiras e 20 USD nas contas financeiras STP. "
-
 msgid "Cryptocurrencies such as Bitcoin and Ethereum are decentralised digital assets that enable instant payments to anywhere in the world."
 msgstr "Criptomoedas como Bitcoin e Ethereum são ativos digitais descentralizados que permitem pagamentos instantâneos para qualquer parte do mundo."
 
 msgid "Cryptocurrencies such as Bitcoin and Ethereum are decentralised digital currencies on the blockchain."
 msgstr "Criptomoedas como Bitcoin e Ethereum são ativos digitais descentralizados que permitem pagamentos instantâneos para qualquer parte do mundo."
 
-msgid "Cryptocurrencies**"
-msgstr "Criptomoedas"
+msgid "Cryptocurrencies*"
+msgstr "Criptomoedas*"
 
 msgid "Cryptocurrency"
 msgstr "Criptomoeda"
@@ -3346,9 +3403,6 @@ msgstr "Foco no cliente"
 
 msgid "Customer funds"
 msgstr "Fundos de Clientes"
-
-msgid "Customer service was unsatisfactory."
-msgstr ""
 
 msgid "Customer-centric partnership"
 msgstr "Parceria centrada no cliente"
@@ -3411,6 +3465,9 @@ msgstr "A DIEL reserva-se o direito de aceitar ou recusar qualquer pedido de alt
 msgid "DIEL shall not be obliged to provide professional clients with the following:"
 msgstr "A DIEL não será obrigada a fornecer aos clientes profissionais o seguinte:"
 
+msgid "DSH/USD"
+msgstr "DSH/USD"
+
 msgid "Daily Reset Indices – Daily Reset Indices replicate markets with a bullish and bearish trend with a constant volatility. The Bull Market and Bear Market indices start at 00:00 GMT each day, replicating bullish and bearish markets respectively."
 msgstr "Os Índices Reinício Diário – Os Índices Reinício Diário replicam mercados com tendências de baixa e de alta, com uma volatilidade constante. Os índices Mercado em alta e Mercado em baixa entram em funcionamento às 00:00 GMT todos os dias, replicando os mercados com tendência altista e tendência baixista, respectivamente."
 
@@ -3468,11 +3525,11 @@ msgstr "Data de nascimento"
 msgid "Dated within the last six months"
 msgstr "Datado dos últimos seis meses"
 
+msgid "Dates are often easy to guess"
+msgstr "Datas costumam ser fáceis de adivinhar"
+
 msgid "Deactivate"
 msgstr "Desativar"
-
-msgid "Deactivate Account"
-msgstr ""
 
 msgid "Deal Cancel. Fee"
 msgstr "Cancelar negócio. Taxa"
@@ -3568,8 +3625,8 @@ msgstr "Depositar ou retirar abaixo"
 msgid "Deposit: %1 blockchain confirmations"
 msgstr "Depósito: %1 confirmações de blockchain"
 
-msgid "Deposit: %1 working day"
-msgstr "Depósito: %1 dia útil"
+msgid "Deposit: %1 day"
+msgstr "Depósito: %1 dia"
 
 msgid "Deposit: Instant"
 msgstr "Depósito: Instantâneo"
@@ -3604,8 +3661,9 @@ msgstr "Deriv (Europe) Limited"
 msgid "Deriv (Europe) Limited,"
 msgstr "Deriv (Europe) Limited,"
 
-msgid "Deriv (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta. Licensed and regulated (for gambling products only - %1's Synthetic Indices) by the Malta Gaming Authority in Malta  (licence no. %2) - %3view licence%4 and also maintains an Irish licence. For UK clients by the UK Gambling Commission - %5view licence%4."
-msgstr "Deriv (Europe) Limited, W Business Center, Nível 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta. Licenciado e regulamentado (apenas para produtos de jogo - Índices Sintéticos de %1) pela Autoridade de Jogos de Malta em Malta (licença nº %2) - %3ver licença%4 e também mantém uma licença irlandesa. Para clientes do Reino Unido pela Comissão de Jogos do Reino Unido - %5ver licença%4."
+msgid "Deriv (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta, is licensed and regulated (for gambling products only - %1's Synthetic Indices) by the Malta Gaming Authority in Malta (%2licence no. MGA/B2C/102/2000%4), by the Gambling Commission for clients in Great Britain under (%3account no. 39495%4), and by the Revenue Commissioners for clients in Ireland (licence no. 1010285)."
+msgstr "\n"
+"Deriv (Europe) Limited, W Business Center, Nível 3, Triq Dun Karm, Birkirkara BKR 9033, Malta, é licenciada e regulamentada (apenas para produtos de jogos de azar - índices sintéticos% 1) pela Malta Gaming Authority em Malta (% 2licence no. MGA / B2C / 102/2000% 4), pela Gambling Commission para clientes na Grã-Bretanha sob (% 3account no. 39495% 4), e pelos Revenue Commissioners para clientes na Irlanda (licença no. 1010285)."
 
 msgid "Deriv (Europe) Limited, or"
 msgstr "Deriv (Europe) Limited, ou"
@@ -3629,8 +3687,9 @@ msgstr "\n"
 msgid "Deriv (MX) Ltd"
 msgstr "Deriv (MX) Ltd"
 
-msgid "Deriv (MX) Ltd, First Floor, Millennium House, Victoria Road, Douglas, Isle of Man, IM2 4RW. Licensed and regulated by the Gambling Supervision Commission in the Isle of Man (current online gambling licence granted on the 31 August 2017) - %1view licence%2 and for UK clients by the UK Gambling Commission - %3view licence%2."
-msgstr "Deriv (MX) Ltd, First Floor, Millennium House, Victoria Road, Douglas, Isle of Man, IM2 4RW. Licenciada e regulamentada pela Gambling Supervision Commission in the Isle of Man (Comissão de Supervisão de Jogos da Ilha de Man - licença de jogos online em vigor concedida em 31 de agosto de 2017) - %1ver licença%2 e para os clientes do Reino Unido pela UK Gambling Commission (Comissão de Jogos do Reino Unido) - %3ver licença%2."
+msgid "Deriv (MX) Ltd, Millennium House, Level 1, Victoria Road, Douglas IM2 4RW, Isle of Man, is licensed and regulated in Great Britain by the Gambling Commission under %1account no. 39172%3 and by the Gambling Supervision Commission in the Isle of Man (%2view licence%3)."
+msgstr "\n"
+"Deriv (MX) Ltd, Millennium House, Nível 1, Victoria Road, Douglas IM2 4RW, Ilha de Man, é licenciada e regulamentada na Grã-Bretanha pela Gambling Commission sob % 1count no. 39172% 3 e pela Comissão de Supervisão de Jogos de Azar na Ilha de Man (% 2view licença% 3)."
 
 msgid "Deriv (MX) Ltd."
 msgstr "Deriv (MX) Ltd."
@@ -3928,6 +3987,9 @@ msgstr "Download MT5"
 msgid "Download MT5 for Linux"
 msgstr "Baixar MT5 para Linux"
 
+msgid "Download MT5 for Mac"
+msgstr "Baixar MT5 para Mac"
+
 msgid "Download MT5 for Windows"
 msgstr "Baixar MT5 para Windows"
 
@@ -3975,6 +4037,14 @@ msgstr "A arquitetura icônica de Dubai inclui o prédio mais alto do mundo, ilh
 
 msgid "Dubai, United Arab Emirates"
 msgstr "Dubai, Emirados Árabes Unidos"
+
+msgid "Due to an issue on our server, some MT5 accounts are unavailable at the moment. Please bear with us and thank you for your patience."
+msgstr "\n"
+"Devido a um problema em nosso servidor, algumas contas MT5 estão indisponíveis no momento. Tenha paciência e obrigado por sua paciência."
+
+msgid "Due to an issue on our server, some of your MT5 accounts are unavailable at the moment. %1Please bear with us and thank you for your patience."
+msgstr "\n"
+"Devido a um problema em nosso servidor, algumas de suas contas MT5  estão indisponíveis no momento. %1Por favor aguarde e obrigada pela sua paciência."
 
 msgid "Due to market volatility and gold's reputation as a safe-haven asset, you predict that the price of gold will rise."
 msgstr "Devido à volatilidade do mercado e a reputação do ouro como um ativo de segurança, você prevê que o preço do ouro irá subir."
@@ -4032,6 +4102,12 @@ msgstr "Prêmio Operador EGR"
 
 msgid "EOS vs US dollar"
 msgstr "EOS vs Dólar Americano"
+
+msgid "EOS/USD"
+msgstr "EOS/USD"
+
+msgid "ETH/USD"
+msgstr "ETH/USD"
 
 msgid "EU Passport Rights"
 msgstr "Direitos de passaporte da UE"
@@ -4323,9 +4399,6 @@ msgstr "Euro vs Lira Turca"
 
 msgid "Euro vs US dollar"
 msgstr "Euro vs Dólar Americano"
-
-msgid "European Union residents who wish to trade gambling products will have their accounts opened with Deriv (Europe) Limited."
-msgstr "As contas de residentes da União Europeia que desejam negociar produtos de jogo serão abertas na Deriv Investments (Europe) Limited."
 
 msgid "European Union residents who wish to trade investment products will have their accounts opened with Deriv Investments (Europe) Limited."
 msgstr "As contas de residentes da União Europeia que desejam negociar produtos de investimento serão abertas na Deriv Investments (Europe) Limited."
@@ -4738,8 +4811,9 @@ msgstr "Fev"
 msgid "February"
 msgstr "Fevereiro"
 
-msgid "Feel free to contact our friendly and helpful customer service experts. They're always available to answer your questions. You can contact us via email and telephone."
-msgstr "Não hesite em contatar os nossos especialistas amigáveis e prestativos no apoio ao cliente. Eles estão sempre à disposição para responder às suas perguntas. É possível contatar-nos por meio de e-mail e telefone."
+msgid "Feel free to contact our friendly and helpful customer service experts. They're always available to answer your questions. You can contact us via live chat."
+msgstr "\n"
+"Sinta-se à vontade para entrar em contato com nossos simpáticos e prestativos especialistas em atendimento ao cliente. Eles estão sempre disponíveis para esclarecer suas dúvidas. Você pode nos contatar via chat ao vivo."
 
 msgid "Feel free to get in touch with us at %1. We'd love to hear from you."
 msgstr "Sinta-se à vontade para entrar em contato conosco na %1. Gostaríamos de ouvir a sua opinião."
@@ -4821,6 +4895,9 @@ msgstr "Conta financeira"
 
 msgid "Financial assessment"
 msgstr "Avaliação financeira"
+
+msgid "Financial concerns"
+msgstr "Preocupações financeiras"
 
 msgid "Financial derivatives that allow you to trade on the movement of underlying assets."
 msgstr "Derivativos financeiros que lhe permitem negociar sobre o movimento de ativos subjacentes."
@@ -5225,6 +5302,15 @@ msgstr "Ir para o painel de controle da MetaTrader 5"
 msgid "Go to statement"
 msgstr "Ir para extrato"
 
+msgid "Go to the %1Cashier%2 to withdraw funds from your %3 accounts."
+msgstr "Vá para o %1Caixa%2 para retirar os fundos da sua conta %3."
+
+msgid "Go to the %1MT5 dashboard%2 to withdraw funds from your Binary.com MT5 account."
+msgstr "Vá para o %1painel MT5%2 para retirar fundos da sua conta MT5."
+
+msgid "Go to the %1portfolio page%2 to close all open positions from your Binary.com accounts."
+msgstr "Vá para a página %1Portfolio%2 para fechar todas as posições em aberto em sua conta."
+
 msgid "Go with the leader"
 msgstr "Siga o líder"
 
@@ -5390,9 +5476,6 @@ msgstr "Contratos Mais Altos/Mais Baixos"
 msgid "Highlights"
 msgstr "Destaques"
 
-msgid "Hint: it would take approximately %1%2 to crack your password."
-msgstr "Dica: levaria aproximadamente %1%2 para quebrar sua senha."
-
 msgid "Historical Mediterranean island"
 msgstr "Ilha mediterrânica histórica"
 
@@ -5507,35 +5590,47 @@ msgstr "Eu declaro não ser uma pessoa politicamente exposta (PPE)."
 msgid "I forgot my password, what should I do?"
 msgstr "Esqueci a minha senha, o que devo fazer?"
 
-msgid "I have other financial priorities."
-msgstr ""
-
 msgid "I have read and agree to the %1terms and conditions%2 of the site."
 msgstr "Li e aceito os %1termos e condições%2 do site."
 
 msgid "I hereby confirm that the tax information I provided is true and complete. I will also inform Deriv Investments (Europe) Limited about any changes to this information."
 msgstr "Confirmo, pela presente, que as informações fiscais que forneci são verdadeiras e completas. Também irei informar a Deriv Investments (Europe) Limited sobre quaisquer alterações a estas informações."
 
-msgid "I prefer another trading website."
-msgstr ""
+msgid "I want to change my affiliate instead"
+msgstr "Eu quero mudar meu afiliado"
+
+msgid "I want to change my currency instead"
+msgstr "Eu quero mudar minha moeda"
+
+msgid "I want to close my account"
+msgstr "Quero fechar minha conta"
+
+msgid "I want to limit my trading activity instead"
+msgstr "Quero limitar minha atividade de negociação"
+
+msgid "I want to open a cryptocurrency account instead"
+msgstr "Eu quero abrir uma conta de criptomoeda"
+
+msgid "I want to open a fiat currency account instead"
+msgstr "Eu quero abrir uma conta em moeda fiduciária"
+
+msgid "I want to open a real account instead"
+msgstr "Eu quero abrir uma conta real"
+
+msgid "I want to open another cryptocurrency account instead"
+msgstr "Eu quero abrir outra conta de criptomoeda"
 
 msgid "I want to reapply"
 msgstr "Desejo candidatar-me novamente"
 
-msgid "I want to stop myself from trading."
-msgstr ""
+msgid "I want to set my currency instead"
+msgstr "Quero escolher minha moeda"
 
 msgid "I would like to be treated as a professional client."
 msgstr "Eu gostaria de ser tratado como um cliente profissional."
 
-msgid "I'm deactivating my account for other reasons."
-msgstr ""
-
 msgid "I'm interested"
 msgstr "Estou interessado"
-
-msgid "I'm no longer interested in trading."
-msgstr ""
 
 msgid "I. Trading"
 msgstr "I. Negociação"
@@ -5791,20 +5886,11 @@ msgstr "Caso você não receba o e-mail dentro dos próximos minutos, verifique 
 msgid "If you find any vulnerabilities in our %1open-source code%2, feel free to submit a pull request on GitHub."
 msgstr "Caso você descubra quaisquer vulnerabilidades no nosso %1código-fonte aberto%2, não hesite em enviar uma solicitação pull no GitHub."
 
-msgid "If you have a Binary real account, go to %1Cashier%2 to withdraw your funds"
-msgstr ""
-
-msgid "If you have a Binary real account, go to %1Portfolio%2 to close any open positions."
-msgstr ""
-
-msgid "If you have a DMT5 real account, go to %1MT5 dashboard%2 to withdraw your funds."
-msgstr ""
-
-msgid "If you have a DMT5 real account, log into it to close any open positions."
-msgstr ""
-
 msgid "If you have a payment reference (for example 122), you can enter it here."
 msgstr "Se você tem uma referência de pagamento (por exemplo, 122), insira aqui."
+
+msgid "If you have opened positions in your MT5 account, please close them too."
+msgstr "Se você tem posições em aberto na sua conta MT5, também é necessário que sejam fechadas."
 
 msgid "If you keep any positions open overnight, an interest adjustment will be made to your trading account as indication of the cost required to keep your position open."
 msgstr "Caso você mantenha quaisquer posições em aberto durante a noite, um ajustamento nos juros será feito na sua conta de negociação como indicação do custo necessário para manter a sua posição aberta."
@@ -5935,6 +6021,9 @@ msgstr "Se você selecionar uma <strong>hora de início</strong> como \"Agora\",
 
 msgid "If you select a specific <strong>end time</strong>, the <strong>end time</strong> is the selected time."
 msgstr "Se você selecionar uma <strong>hora de término</strong> específica, a <strong>hora de término</strong> do contrato é a hora selecionada."
+
+msgid "If you want to change your affiliate, contact %1partners@binary.com%2 for more information on how you can do this."
+msgstr "Se você deseja alterar seu afiliado, entre em contato com %1partners@binary.com%2 para obter mais informações sobre como fazer isso."
 
 msgid "If you wish to reduce or remove the self-exclusion period, contact our %1Customer Support%1."
 msgstr "Se você deseja reduzir ou remover o período de auto-exclusão, entre em contato com o %1Suporte ao Cliente%1."
@@ -6096,8 +6185,9 @@ msgstr "Na União Europeia, os produtos financeiros são disponibilizados pela D
 msgid "In the EU, financial products are offered by Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta, regulated as a Category 3 Investment Services provider by the Malta Financial Services Authority (%1licence no. IS/70156%2)."
 msgstr "Na União Europeia, os produtos financeiros são disponibilizados pela Deriv Investments (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta, regulamentada como um fornecedor de Serviços de Investimento de Categoria 3 pela Autoridade de Serviços Financeiros (%1licença n. º IS/70156%2)."
 
-msgid "In the Isle of Man and the UK, Synthetic Indices are offered by Deriv (MX) Ltd., First Floor, Millennium House, Victoria Road, Douglas, IM2 4RW, Isle of Man, British Isles; licensed and regulated respectively by (1) the Gambling Supervision Commission in the Isle of Man (current licence issued on 31 August 2017) and by (2) the Gambling Commission in the UK (licence %1reference no: 39172%2)."
-msgstr "Na Ilha de Man e no Reino Unido, os Índices Sintéticos são disponibilizados pela Deriv (MX) Ltd., First Floor, Millennium House, Victoria Road, Douglas, IM2 4RW, Ilha de Man, Ilhas Britânicas, licenciada e regulamentada respectivamente pela (1) Comissão de Supervisão de Jogos na Ilha de Man (licença atual emitida a 31 de agosto de 2017) e pela (2) Comissão de Jogos no Reino Unido (licença com %1referência n. º: 39172%2)."
+msgid "In the Isle of Man and the UK, Synthetic indices are offered by Deriv (MX) Ltd, Millennium House, Level 1, Victoria Road, Douglas IM2 4RW, Isle of Man; licensed and regulated in Great Britain by (1) the Gambling Commission under %1account no. 39172%3 and by (2) the Gambling Supervision Commission in the Isle of Man (%2view licence%3)."
+msgstr "\n"
+"Na Ilha de Man e no Reino Unido, os índices sintéticos são oferecidos por Deriv (MX) Ltd, Millennium House, Nível 1, Victoria Road, Douglas IM2 4RW, Ilha de Man; licenciado e regulamentado na Grã-Bretanha pela (1) Gambling Commission sob% 1count no. 39172% 3 e por (2) a Comissão de Supervisão de Jogos na Ilha de Man (% 2ver licença% 3)."
 
 msgid "In the UK, our clients trade through Deriv (MX) Ltd and Deriv Investments (Europe) Limited. In the Isle of Man, they trade through Deriv (MX) Ltd. In the European Union (except UK), they trade through Deriv (Europe) Limited and Deriv Investments (Europe) Limited. In the rest of the world, they trade through Deriv (SVG) LLC, Deriv (V) Ltd, Deriv (BVI) Ltd and Deriv (FX) Ltd."
 msgstr "No Reino Unido, nossos clientes negociam através da Deriv (MX) Ltd e Deriv Investments (Europe) Limited. Na Ilha de Man, eles negociam através da Deriv (MX) Ltd. Na União Europeia (exceto Reino Unido), comercializam através da Deriv (Europe) Limited e Deriv Investments (Europe) Limited. No resto do mundo, eles negociam através da Deriv (SVG) LLC, da Deriv (V) Ltd, da Deriv (BVI) Ltd e da Deriv (FX) Ltd."
@@ -6129,8 +6219,9 @@ msgstr "No caso de a Companhia não receber Ordens do cliente para fechar uma Po
 msgid "In the event that the Company is aware of an Affiliate who is in breach of any of the above provisions, the Company shall have the right, in addition to any other right or remedy available to it under this Agreement or applicable law, to immediately block the Affiliate's access to this programme. The Affiliate hereby irrevocably waives their rights to, and shall indemnify the Company and any member of the Deriv group of companies for, any claims or demands made against the Company or any member of the Deriv group of companies, their directors, officers, shareholders, or employees or against the %1 website if the Company revokes the Affiliate's access to the programme."
 msgstr "Caso a Empresa tenha conhecimento de um Afiliado que esteja violando alguma das disposições acima, a Empresa terá o direito, além de qualquer outro direito ou solução disponível sob este Contrato ou a lei aplicável, de bloquear imediatamente o acesso do Afiliado a este programa. O Afiliado renuncia irrevogavelmente a seus direitos e deve indenizar a Empresa e qualquer membro do grupo Deriv por quaisquer reivindicações ou demandas feitas contra a Empresa ou qualquer membro do grupo Deriv, seus diretores, executivos, acionistas, ou funcionários ou contra o site %1, se a Empresa revogar o acesso do Afiliado ao programa."
 
-msgid "In the rest of the EU, Synthetic Indices are offered by Deriv (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta; licensed and regulated by (1) the Malta Gaming Authority in Malta (%1licence no. MGA/B2C/102/2000%4 issued on 01 August 2018), for UK clients by (2) the UK Gambling Commission (licence %2reference no: 39495%4), and for Irish clients by (3) the Revenue Commissioners in Ireland (Remote Bookmaker's Licence no. 1010285 issued on 1 July 2017). View complete %3Regulatory Information%4."
-msgstr "No resto da UE, os Índices Sintéticos são disponibilizados pela Deriv (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara, BKR 9033, Malta; licenciada e regulamentada (1) Autoridade de Jogos de Malta (%1licença n. º MGA/B2C/102/2000%4 emitida a 01 de agosto de 2018), para clientes do Reino Unido pela (2) Comissão de Jogos de Azar do Reino Unido (licença com %2referência n. º: 39495%4) e para clientes irlandeses pelo (3) Departamento de Impostos da Irlanda (licença de casa de apostas remota n. º: 1010285 emitida a 1 de julho de 2017). Ver %3informações regulamentares%4 completas."
+msgid "In the rest of the EU, Synthetic Indices are offered by Deriv (Europe) Limited, W Business Centre, Level 3, Triq Dun Karm, Birkirkara BKR 9033, Malta; licensed and regulated by (1) the Malta Gaming Authority (%1licence no. MGA/B2C/102/2000%4), by (2) the Gambling Commission for clients in Great Britain under %2account no. 39495%4, and by (3) the Revenue Commissioners for clients in Ireland (licence no. 1010285). View complete %3Regulatory Information%4."
+msgstr "\n"
+"No resto da UE, os índices sintéticos são oferecidos por Deriv (Europe) Limited, W Business Centre, Nível 3, Triq Dun Karm, Birkirkara BKR 9033, Malta; licenciada e regulada por (1) a Malta Gaming Authority (% 1licence no. MGA / B2C / 102/2000% 4), por (2) Gambling Commission para clientes na Grã-Bretanha sob% 2count no 39495% 4, e por (3) os Revenue Commissioners para clientes na Irlanda (licença n.º 1010285). Visualize% 3Informações regulatórias% 4 completas."
 
 msgid "In this Agreement, unless the context otherwise requires, the following definitions hold:"
 msgstr "Neste Contrato, a menos que o contexto exija de outra forma, as seguintes definições são válidas:"
@@ -6571,6 +6662,9 @@ msgstr "Escritório de Kuala Lumpur"
 msgid "L. Manifest Error"
 msgstr "L. Erro Manifesto"
 
+msgid "LTC/USD"
+msgstr "LTC/USD"
+
 msgid "Labuan"
 msgstr "Labuan"
 
@@ -6757,8 +6851,8 @@ msgstr "Ligado ao seu computador"
 msgid "Links"
 msgstr "Links"
 
-msgid "Linux"
-msgstr "Linux"
+msgid "Linux or MacOs"
+msgstr "Linux ou MacOs"
 
 msgid "Liquidity solutions"
 msgstr "Soluções de liquidez"
@@ -6841,9 +6935,6 @@ msgstr "Opções retroativas são atualmente apenas disponíveis em %1Índices S
 msgid "Looking for %1 app?"
 msgstr "À procura do aplicativo %1?"
 
-msgid "Looking for desktop apps?"
-msgstr "Procurando aplicativos para desktop?"
-
 msgid "Looking for the %1 Desktop app?"
 msgstr "Procurando o aplicativo %1 Desktop?"
 
@@ -6916,8 +7007,8 @@ msgstr "Conta real MT5"
 msgid "MT5 Synthetic"
 msgstr "MT5 Sintéticos"
 
-msgid "MT5 Web platform"
-msgstr "Plataforma Web MT5"
+msgid "MT5 for %1"
+msgstr "MT5 para %1"
 
 msgid "MT5 for Android"
 msgstr "MT5 para Android"
@@ -6928,11 +7019,11 @@ msgstr "MT5 para Linux"
 msgid "MT5 for Mobile"
 msgstr "MT5 para dispositivos móveis"
 
-msgid "MT5 for Windows"
-msgstr "MT5 para Windows"
-
 msgid "MT5 for iOS"
 msgstr "MT5 para iOS"
+
+msgid "MT5 for macOS"
+msgstr "MT5  para macOS"
 
 msgid "MT5 real-money account for Synthetic Indices only."
 msgstr "Conta de dinheiro real MT5 apenas para Índices Sintéticos."
@@ -6945,6 +7036,9 @@ msgstr "Plataforma Web MT5"
 
 msgid "MT5 withdrawals have been disabled on your account. Please check your email for more details."
 msgstr "Retiradas da MT5 foram desativadas na sua conta. Confira o seu e-mail para mais detalhes."
+
+msgid "MacOs or Windows"
+msgstr "MacOs ou Windows"
 
 msgid "Made an impression in the first interview? We'll invite you to a second interview with our CEO and/or hiring manager."
 msgstr "Fez uma boa impressão na primeira entrevista? Iremos convidá-lo para uma segunda entrevista com o nosso diretor e/ou gestor de recrutamento."
@@ -7053,9 +7147,6 @@ msgstr "Fazer ajustes razoáveis ​​para funcionários com deficiência "
 
 msgid "Making decisions about who to employ and what salary and benefits to offer"
 msgstr "Tomar decisões sobre quem empregar e que salário e benefícios oferecer"
-
-msgid "Making deposits and withdrawals is difficult."
-msgstr ""
 
 msgid "Making sure of having effective and updated antivirus/antispyware software and firewall in place before using public WiFi"
 msgstr "Certifique-se de ter um software antivírus/antispyware e um firewall eficazes e atualizados antes de usar um WiFi público"
@@ -7324,9 +7415,6 @@ msgstr "Depósito mínimo"
 msgid "Minimum of %1 characters required."
 msgstr "Um mínimo de %1 caracteres é necessário."
 
-msgid "Minimum of eight lower and uppercase English letters with numbers"
-msgstr "Mínimo de oito letras minúsculas e maiúsculas com números"
-
 msgid "Minimum of six months validity"
 msgstr "Mínimo de validade de seis meses"
 
@@ -7493,9 +7581,6 @@ msgstr "Deve ser uma fotografia clara e colorida"
 msgid "Must be a clear, colour photo or scanned image"
 msgstr "Deve ser uma fotografia ou uma imagem digitalizada clara e colorida"
 
-msgid "Must be numbers, letters, and special characters . , ' -"
-msgstr ""
-
 msgid "Must be under 10MB."
 msgstr "Deve ter menos de 10 MB."
 
@@ -7526,8 +7611,8 @@ msgstr "Nome do seu animal de estimação"
 msgid "Name, email address, and contact number"
 msgstr "Nome, endereço de email e número de contato"
 
-msgid "Name:"
-msgstr "Nome:"
+msgid "Names and surnames by themselves are easy to guess"
+msgstr "Nomes e sobrenomes sozinhos são fáceis de adivinhar"
 
 msgid "National ID card, ID book or any government-issued document which contains a photo, your name, and date of birth"
 msgstr "Cartão de identidade nacional ou qualquer documento emitido pelo governo que contenha uma fotografia, o seu nome e a sua data de nascimento"
@@ -7698,6 +7783,9 @@ msgstr "Sem limite"
 msgid "No modification or amendment of any or all clauses or provisions of this agreement shall be valid without the clear and unequivocal acceptance of such amendments by both Parties."
 msgstr "Nenhuma modificação ou emenda de qualquer ou todas as cláusulas ou disposições deste acordo serão válidas sem a aceitação clara e inequívoca de tais emendas por ambas as Partes."
 
+msgid "No need for symbols, digits, or uppercase letters"
+msgstr "Não há necessidade de símbolos, dígitos ou letras maiúsculas"
+
 msgid "No open positions."
 msgstr "Nenhuma posição em aberto."
 
@@ -7730,6 +7818,9 @@ msgstr "Não anunciado para esta moeda."
 
 msgid "Not at all. Joining our affiliate programme is completely free and always will be."
 msgstr "De modo algum. A inscrição no nosso programa de afiliados é totalmente gratuita e sempre será."
+
+msgid "Not interested in trading"
+msgstr "Não estou interessado em negociar"
 
 msgid "Not leaving devices unattended"
 msgstr "Não deixar seus dispositivos sem supervisão"
@@ -8073,6 +8164,9 @@ msgstr "Outros riscos: Existem outros riscos relacionados à negociação de pro
 msgid "Other than the payment of Commissions, Binary is not liable to the Introducing Broker or their Associates or any other person for any matter arising out of or in relation to this Agreement whether under the law of tort, contract, or equity or otherwise for any loss."
 msgstr "Além do pagamento de Comissões, a Binary não é responsável perante o Corretor de Apresentação ou seus Associados ou qualquer outra pessoa por qualquer assunto decorrente ou relacionado a este Contrato, seja de acordo com a lei de responsabilidade civil, contrato ou patrimônio líquido ou por qualquer perda."
 
+msgid "Others (please specify)"
+msgstr "Outros (por favor especifique)"
+
 msgid "Our Accounting &amp; Payments team manages our wide range of bank accounts and e-currency systems, as well as the huge volume of transactions that take place every day."
 msgstr "A equipe de Contabilidade e Pagamentos gerencia nossa ampla gama de contas bancárias e sistemas de moeda eletrônica, bem como o enorme volume de transações que ocorrem todos os dias."
 
@@ -8088,8 +8182,8 @@ msgstr "Nossa conta Financeira MetaTrader 5 é adequada para traders novos e exp
 msgid "Our Synthetic account allows you to trade CFDs on Synthetic Indices - our proprietary synthetic assets that simulate market forces."
 msgstr "Nossa conta Sintéticos permite que você negocie CFDs em Índices Sintéticos - nossos ativos sintéticos proprietários que simulam as forças do mercado."
 
-msgid "Our active client base is expected to reach over 175,000 total clients this year."
-msgstr "É esperado que a nossa base de clientes ativos ultrapasse um total de 175.000 clientes este ano."
+msgid "Our active client base is expected to reach over 790,000 total clients this year."
+msgstr "É esperado que a nossa base de clientes ativos ultrapasse um total de 790.000 clientes este ano."
 
 msgid "Our business is founded on collaboration and we aim to build long-term, mutually beneficial relationships with our partners. However, we will never compromise our commitment to business integrity. In cases where our partners are unwilling or unable to abide by our principles, we reserve the right to withdraw from the business relationship."
 msgstr "Nosso negócio é baseado na colaboração e nosso objetivo é construir relacionamentos de longo prazo e mutuamente benéficos com nossos parceiros. No entanto, nunca comprometemos nosso compromisso com a integridade dos negócios. Nos casos em que nossos parceiros não desejam ou não cumprem nossos princípios, nos reservamos ao direito de desistir do relacionamento comercial."
@@ -8541,6 +8635,10 @@ msgstr "Confirme que você não é uma pessoa politicamente exposta."
 msgid "Please confirm the transaction details in order to complete the transfer:"
 msgstr "Confirme os detalhes da transação para concluir a transferência:"
 
+msgid "Please contact us via %1live chat%2."
+msgstr "\n"
+"Entre em contato conosco através do %1live chat%2."
+
 msgid "Please contact your payment agent to validate your withdrawal request."
 msgstr "Entre em contato com seu Agente de Pagamento para validar sua solicitação de retirada."
 
@@ -8556,8 +8654,8 @@ msgstr "Verifique se o seu endereço está completo e preciso."
 msgid "Please enter a valid Login ID."
 msgstr "Insira uma ID de login válida."
 
-msgid "Please enter a valid phone number, including the country code (e.g. +15417541234)."
-msgstr "Digite um número de telefone válido, incluindo o código do país (por exemplo, +5511991234567)."
+msgid "Please enter a valid phone number (e.g. +15417541234)."
+msgstr "Digite um número de telefone válido (por exemplo, +5511991234567)."
 
 msgid "Please enter date in the format DD MMM, YYYY HH:mm (local time)."
 msgstr "Insira uma data no formato DD MMM, YYYY HH:mm (hora local)."
@@ -8619,11 +8717,11 @@ msgstr "Selecione"
 msgid "Please select a country"
 msgstr "Selecione um país"
 
+msgid "Please select a reason."
+msgstr "Por favor, selecione um motivo."
+
 msgid "Please select a valid time."
 msgstr "Selecione uma hora válida."
-
-msgid "Please select at least one reason."
-msgstr ""
 
 msgid "Please select at least one scope"
 msgstr "Selecione pelo menos um escopo"
@@ -8652,6 +8750,9 @@ msgstr "Por favor, defina o seu limite de %1volume de negócios de 30 dias%2 par
 msgid "Please set your %130-day turnover limit%2 to remove deposit limits."
 msgstr "Defina o seu %1limite de volume de negócios de 13 dias%2 para remover os limites de depósito."
 
+msgid "Please specify the reasons for closing your accounts"
+msgstr "Especifique os motivos para fechar sua conta"
+
 msgid "Please specify your preferred reality-check interval in minutes"
 msgstr "Especifique o seu intervalo preferido para o balanço da realidade em minutos"
 
@@ -8673,8 +8774,8 @@ msgstr "Por favor, tome nota que a nossa taxa de swap também depende do tempo e
 msgid "Please take note that our swap rate also depends on the time and days you hold your positions open:"
 msgstr "Note que a nossa taxa de swap também depende do tempo e dos dias em que você mantém as suas posições em aberto:"
 
-msgid "Please tell us why you’re leaving. (Select up to 3 reasons.)"
-msgstr ""
+msgid "Please tell us why you are closing your account (please select one):"
+msgstr "Por favor nos deixe saber porque você está encerrando sua conta (selecione uma opção):"
 
 msgid "Please try again"
 msgstr "Por favor, tente novamente"
@@ -8799,6 +8900,12 @@ msgstr "Preveja a direção<br />e compre"
 msgid "Predict the last decimal digit of the spot price with Digits. There are three types of Digits trades:"
 msgstr "Preveja o último dígito do preço à vista com \"Dígitos\". Há 3 tipos de negociações \"Dígitos\":"
 
+msgid "Predictable substitutions like '@' instead of 'a' don't help very much"
+msgstr "Previsíveis substituições como '@' em vez de 'a' não ajudam muito"
+
+msgid "Prefer another trading website"
+msgstr "Prefiro outro site de negociação"
+
 msgid "Preferences:"
 msgstr "Preferências:"
 
@@ -8843,6 +8950,10 @@ msgstr "Preço(s)/Dados determinação de preços"
 
 msgid "Primary"
 msgstr "Ensino Fundamental"
+
+msgid "Prime Brokerage Services Limited"
+msgstr "\n"
+"Prime Brokerage Services Limited"
 
 msgid "Prior to placing an Order, which results in opening a position, the client acknowledges that it is their responsibility to ensure that their Account Free Margin is sufficient to cover the Margin required in relation to the opening of the position (the \"Margin Requirement\"), and to continuously meet the Margin Requirement."
 msgstr "Antes de fazer um pedido, o que resulta na abertura de uma posição, o cliente reconhece que é sua responsabilidade garantir que a margem livre da conta seja suficiente para cobrir a margem exigida em relação à abertura da posição (o \"requisito de margem\"). e para atender continuamente ao Requisito de Margem."
@@ -9087,6 +9198,9 @@ msgstr "T4 2018"
 msgid "Q4 2019"
 msgstr "Q4 2019"
 
+msgid "Q4 2020"
+msgstr "Q4 2020"
+
 msgid "Qiwi is a payment service provider that was founded in 2007. It provides individuals with a simple way to transfer money, receive payments, and pay online. For more information, please visit %1."
 msgstr "Qiwi é um provedor de serviços de pagamentos fundado em 2007. Ele fornece a clientes particulares um método simples de transferir dinheiro, receber pagamentos e pagar online. Para mais informações, visite %1."
 
@@ -9131,9 +9245,6 @@ msgstr "Índices Range Break"
 
 msgid "Range of markets"
 msgstr "Variedade de mercados"
-
-msgid "Re-enter password"
-msgstr "Redigite a senha"
 
 msgid "Read"
 msgstr "Ler"
@@ -9226,6 +9337,9 @@ msgstr "Receber aprovação da Empresa para incluir quaisquer informações rela
 msgid "Receive your earnings through your favourite payment method"
 msgstr "Receba os seus lucros através do seu método de pagamento favorito"
 
+msgid "Recent years are easy to guess"
+msgstr "Os últimos anos são fáceis de adivinhar"
+
 msgid "Recognising the complexities of the financial markets, we describe our trading options fairly and in detail. We include accurate product descriptions on our website, as well as free webinars. We offer clients the opportunity to set up virtual accounts in order to experiment with the system free of charge. We encourage our clients to study all these sources of information carefully before they trade."
 msgstr "Reconhecendo as complexidades dos mercados financeiros, descrevemos nossas opções de negociação de maneira justa e detalhada. Incluímos descrições precisas de produtos em nosso site, além de seminários online gratuitos. Oferecemos aos clientes a oportunidade de configurar contas virtuais para experimentar o sistema gratuitamente. Incentivamos nossos clientes a estudar todas essas fontes de informação com cuidado antes de negociar."
 
@@ -9248,7 +9362,7 @@ msgid "Redo"
 msgstr "Refazer"
 
 msgid "Ref."
-msgstr "Ref."
+msgstr ""
 
 msgid "Refer clients to Binary with the knowledge, or with a reasonably expected knowledge, that these clients engage in such conduct that constitutes Malicious Activity"
 msgstr "Indicar os clientes para a Binary com o conhecimento, ou com um conhecimento razoavelmente esperado, de que esses clientes se envolvem em conduta que constitui Atividade Maliciosa"
@@ -9352,17 +9466,17 @@ msgstr "Transferências de fundos MT5 restantes para hoje: %1"
 msgid "Remaining Time"
 msgstr "Tempo restante"
 
-msgid "Remaining characters: %1."
-msgstr ""
-
-msgid "Remaining characters: 255."
-msgstr ""
-
 msgid "Remember to press stop when you're done. <fallback>Redo video actions</fallback>"
 msgstr "Lembre-se de pressionar parar quando terminar. <fallback>Refazer ações de vídeo</fallback>"
 
 msgid "Remove your glasses, if necessary"
 msgstr "Retire os óculos, se necessário"
+
+msgid "Repeats like \"aaa\" are easy to guess"
+msgstr "Repetições como \"aaa\" são fáceis de adivinhar"
+
+msgid "Repeats like \"abcabcabc\" are only slightly harder to guess than \"abc\""
+msgstr "Repetições como \"abcabcabc\" são um pouco mais difíceis de adivinhar do que \"abc\""
 
 msgid "Replication,"
 msgstr "Replicação,"
@@ -9523,6 +9637,9 @@ msgstr "Verso"
 msgid "Reverse side"
 msgstr "Verso"
 
+msgid "Reversed words aren't much harder to guess"
+msgstr "Palavras invertidas não são muito mais difíceis de adivinhar"
+
 msgid "Review and analyse suspicious client activities"
 msgstr "Rever e analisar as atividades suspeitas de cliente"
 
@@ -9623,10 +9740,10 @@ msgid "Salaried Employee"
 msgstr "Trabalhador assalariado"
 
 msgid "Sale Date"
-msgstr "Data de Venda"
+msgstr ""
 
 msgid "Sale Price"
-msgstr "Preço de venda"
+msgstr ""
 
 msgid "Sale of Property"
 msgstr "Venda de propriedade"
@@ -9833,6 +9950,9 @@ msgstr "Set"
 msgid "September"
 msgstr "Setembro"
 
+msgid "Sequences like abc or 6543 are easy to guess"
+msgstr "Sequências como abc ou 6543 são fáceis de adivinhar"
+
 msgid "Server"
 msgstr "Servidor"
 
@@ -9899,6 +10019,9 @@ msgstr "Preços exatos"
 msgid "Sharp, benchmarked prices"
 msgstr "Preços exatos e referenciados"
 
+msgid "Short keyboard patterns are easy to guess"
+msgstr "Padrões curtos de teclado são fáceis de adivinhar"
+
 msgid "Short to long-term durations"
 msgstr "Durações de curto a longo prazo"
 
@@ -9943,6 +10066,12 @@ msgstr "Mostrar todos os detalhes - incluindo as 2 últimas linhas"
 
 msgid "Show all historical transactions up to"
 msgstr "Mostrar todas as transações históricas até"
+
+msgid "Show less"
+msgstr "Mostre menos"
+
+msgid "Show more"
+msgstr "Mostre mais"
 
 msgid "Sign out"
 msgstr "Sair"
@@ -10160,6 +10289,9 @@ msgstr "Etapa 1"
 msgid "Step 1: Choose demo or real account"
 msgstr "Etapa 1: Escolha a conta demo ou real"
 
+msgid "Step 1: Close all open positions"
+msgstr "Etapa 1: Fechar todas as posições abertas"
+
 msgid "Step 1: Define your position"
 msgstr "Passo 1: Defina a sua posição"
 
@@ -10177,6 +10309,9 @@ msgstr "Etapa 2: Obtenha o seu preço"
 
 msgid "Step 2: Understand when to buy and when to sell"
 msgstr "Etapa 2: Saiba quando comprar e quando vender"
+
+msgid "Step 2: Withdraw your funds"
+msgstr "Etapa 2: Retirar seus fundos"
 
 msgid "Step 3"
 msgstr "Etapa 3"
@@ -10232,6 +10367,9 @@ msgstr "Armazenamento de conteúdo"
 msgid "Stored Procedures"
 msgstr "Procedimentos armazenados"
 
+msgid "Straight rows of keys are easy to guess"
+msgstr "Teclas com linhas retas são mais fáceis de adivinhar"
+
 msgid "Strong analytical capabilities that have been proven in a prior capacity or a keen interest to move into this area"
 msgstr "Fortes capacidades analíticas que foram comprovadas em uma capacidade anterior ou um grande interesse para entrar nesta área"
 
@@ -10249,6 +10387,9 @@ msgstr "Forte capacidade de tomar decisões"
 
 msgid "Strong oral and written communication skills in both the regional language(s) and English"
 msgstr "Fortes capacidades de comunicação oral e escrita, tanto no idioma regional como em inglês"
+
+msgid "Strong passwords contain at least 8 characters, combine uppercase and lowercase letters, numbers, and symbols."
+msgstr "Senhas fortes contêm pelo menos 8 caracteres, combinam letras maiúsculas e minúsculas, números e símbolos."
 
 msgid "Strong understanding of colours, typography, identity design, and branding"
 msgstr "Forte compreensão de cores, tipografia, design de identidade e branding"
@@ -10404,8 +10545,9 @@ msgstr "Esquema de Swap"
 msgid "Swaps Long (per annum)"
 msgstr "Longo Swaps (por ano)"
 
-msgid "Swaps short (per annum)"
-msgstr "Curtos Swaps (por ano)"
+msgid "Swaps Short (per annum)"
+msgstr "\n"
+"Swaps Short (por ano)"
 
 msgid "Swiss franc vs Japanese yen"
 msgstr "Franco Suíço vs Iene Japonês"
@@ -11057,7 +11199,7 @@ msgid "The Company reserves the right to refuse the Affiliate's referrals' appli
 msgstr "A Empresa se reserva o direito de recusar o pedido de indicação do Afiliado para abrir uma conta (ou para fechar a conta do Afiliado), conforme necessário, para cumprir com quaisquer exigências que a Empresa possa estabelecer periodicamente e/ou que possam ser exigidas sob leis, regras e regulamentos aplicáveis."
 
 msgid "The Company reserves the right to refuse the client's request to open an MT5 Real Account for any reason, and any MT5 Real Account may be closed at the Company's discretion at any time upon 7-day notice."
-msgstr ""
+msgstr "A Empresa se reserva o direito de recusar a solicitação do cliente para abrir uma Conta Real MT5 por qualquer motivo, e qualquer Conta Real MT5 pode ser fechada a critério da Empresa a qualquer momento mediante aviso prévio de 7 dias."
 
 msgid "The Company reserves the right to refuse to do business with, to discontinue to do business with, and to reverse the transactions of clients who engage in any trading activity"
 msgstr "A Empresa se reserva o direito de se recusar a negociar, descontinuar negócios e reverter as transações de clientes que se envolverem em qualquer atividade de negociação"
@@ -11284,8 +11426,8 @@ msgstr "As obrigações do Corretor de Apresentação"
 msgid "The Investor Compensation Scheme"
 msgstr "O Sistema de Compensação de Investidores"
 
-msgid "The MT5 desktop app is not supported by macOS, Windows XP, Windows 2003, and Windows Vista."
-msgstr "O aplicativo de desktop MT5 não é suportado pelo macOS, Windows XP, Windows 2003 e Windows Vista."
+msgid "The MT5 desktop app is not supported by Windows XP, Windows 2003, and Windows Vista."
+msgstr "O aplicativo de desktop MT5 não é suportado pelo Windows XP, Windows 2003 e Windows Vista."
 
 msgid "The Margin Level of the client's MT5 Real Account reaches or falls below the Stop Out Level."
 msgstr "O Nível de Margem da Conta Real do MT5 do cliente atinge ou fica abaixo do Nível de Stop Out."
@@ -11903,12 +12045,6 @@ msgstr "O Pagamento é a quantia a ser paga ao negociador se a sua previsão for
 msgid "The photo should clearly show your document"
 msgstr "A foto deve mostrar claramente o seu documento"
 
-msgid "The platforms aren't user-friendly."
-msgstr ""
-
-msgid "The platforms lack key features or functionality."
-msgstr ""
-
 msgid "The premier platform for trading binary options in the world's financial markets"
 msgstr "A principal plataforma para a negociação de opções binárias nos mercados financeiros do mundo"
 
@@ -11941,6 +12077,9 @@ msgstr "A prestação dos serviços de negociação descritos neste contrato uti
 
 msgid "The provisions of this agreement or any orders and any applicable laws will not be breached or violated."
 msgstr "As disposições deste contrato ou quaisquer ordens e quaisquer leis aplicáveis ​​não serão quebradas ou violadas."
+
+msgid "The reason should be between 5 and 250 characters"
+msgstr "A razão deve ter entre 5 e 250 caracteres"
 
 msgid "The requested transfer would reduce the client's Account Balance to less than the Margin required for the client's Open Positions."
 msgstr "A transferência solicitada iria reduzir o saldo da sua conta para menos do que a margem necessária para as suas posições em aberto."
@@ -12293,6 +12432,15 @@ msgstr "Esta é uma continuação do mesmo ponto. %1 oferece aos clientes vária
 msgid "This is a staging server - For testing purposes only"
 msgstr "Este é um servidor temporário - apenas para testes"
 
+msgid "This is a top-10 common password"
+msgstr "Esta é uma das 10 senhas mais comuns"
+
+msgid "This is a top-100 common password"
+msgstr "Esta é uma das 100 principais senhas comuns"
+
+msgid "This is a very common password"
+msgstr "Esta é uma senha muito comum"
+
 msgid "This is an indicative barrier. Actual barrier will be the entry spot plus the barrier offset."
 msgstr "Esta é uma barreira indicativa. A barreira atual será o preço inicial mais a barreira escolhida."
 
@@ -12304,6 +12452,9 @@ msgstr "Esta é importante. Recebemos uma dupla premiação do Financial Times e
 
 msgid "This is one of our core commitments to clients."
 msgstr "Esse é um dos nossos principais compromissos com os clientes."
+
+msgid "This is similar to a commonly used password"
+msgstr "Esta é semelhante a uma senha usada comumente"
 
 msgid "This is the current price at which an underlying can be bought or sold at a particular time."
 msgstr "Este é o preço atual em que um subjacente pode ser comprado ou vendido em um determinado momento."
@@ -12325,6 +12476,9 @@ msgstr "Esta obrigação abrange a proibição de pagamentos ilegais ou a conces
 
 msgid "This page is only available to logged out clients."
 msgstr "Esta página está disponível apenas para clientes desconectados."
+
+msgid "This password is on the blacklist"
+msgstr "Esta senha está na lista negra"
 
 msgid "This policy applies to clients classified as retail or professional. Clients classified as eligible counterparties are outside the scope of this policy."
 msgstr "Esta política aplica-se a clientes classificados como não profissionais e profissionais. Os clientes classificados como contrapartes elegíveis não são abrangidos por esta política."
@@ -12422,6 +12576,9 @@ msgstr "Para poder negociar instrumentos OTC disponíveis na plataforma de negoc
 msgid "To change your name, date of birth, country of residence, email, or tax information, please contact %1Customer Support%2."
 msgstr "Para alterar o seu nome, data de nascimento, país de residência, endereço de e-mail ou informações fiscais%1C, contate o %1Apoio ao cliente%2."
 
+msgid "To close your account, complete the following steps:"
+msgstr "Para fechar sua conta, execute as seguintes etapas:"
+
 msgid "To create a MetaTrader 5 account:"
 msgstr "Para criar uma conta MetaTrader 5:"
 
@@ -12499,6 +12656,9 @@ msgstr "Token"
 
 msgid "Token name"
 msgstr "Nome do token"
+
+msgid "Too addictive"
+msgstr "Muito viciante"
 
 msgid "Too many failed attempts"
 msgstr "Muitas tentativas falhas"
@@ -12641,6 +12801,9 @@ msgstr "Negocie já"
 msgid "Trade on underlying markets that include forex, stock indices, commodities, and more."
 msgstr "Negocie em mercados subjacentes que incluem Forex, Índices de ações, Commodities e muito mais."
 
+msgid "Trade on web terminal"
+msgstr ""
+
 msgid "Trade only with money you can afford to lose. Do not trade with borrowed money."
 msgstr "Negocie apenas uma quantia de dinheiro que possa perder. Não jogue com dinheiro emprestado."
 
@@ -12651,7 +12814,7 @@ msgid "Trade popular major and minor currency pairs, plus Smart FX indices – w
 msgstr "Negocie pares de moedas principais e secundários populares, mais índices de FX inteligente – índices ponderados que medem o valor de uma moeda em relação a uma cesta de moedas principais."
 
 msgid "Trade server:"
-msgstr ""
+msgstr "Servidor de negociação:"
 
 msgid "Trade type"
 msgstr "Tipo de negociação"
@@ -12706,6 +12869,10 @@ msgstr "Horário de Negociação"
 
 msgid "Trading and Withdrawal Limits"
 msgstr "Limites de Negociação e de Retirada"
+
+msgid "Trading and deposits have been disabled on your account. Kindly allow us some time to review the account."
+msgstr "\n"
+"A negociação e os depósitos foram desativados em sua conta. Permita-nos algum tempo para revisar a conta."
 
 msgid "Trading and withdrawals have been disabled on your account. Kindly %1contact customer support%2 for assistance."
 msgstr "A negociação e os saques foram desativados em sua conta. Entre em contato com o %1suporte ao cliente%2 para obter assistência."
@@ -12924,9 +13091,6 @@ msgstr "Tipos de negociações"
 msgid "UI/UX Designer"
 msgstr "Designers IU/UX"
 
-msgid "UK and Manx residents who wish to trade gambling products will have their accounts opened with Deriv (MX) Ltd."
-msgstr "As contas de clientes do RU e da Ilha de Man que desejam negociar produtos de jogo serão abertas na Deriv (MX) Ltd."
-
 msgid "US Patents"
 msgstr "Patentes dos EUA"
 
@@ -12992,6 +13156,10 @@ msgstr "Negociações ultra-rápidas em qualquer lugar"
 
 msgid "Unable to read file %1"
 msgstr "Não foi possível ler o arquivo %1"
+
+msgid "Unavailable"
+msgstr "\n"
+"Indisponível"
 
 msgid "Under no circumstances shall the Company or its directors or employees be liable under this Agreement to the Programmer or any third party for any indirect, special, incidental, punitive, or consequential loss or damages or any other similar damages under any theory of liability (whether in contract, tort, strict liability, or any other theory), which are directly or indirectly attributable to the use of, or the inability to use, the %1 API, or any content contained thereon, even if the Company has been informed of the possibility thereof."
 msgstr "Sob nenhuma circunstância, a Empresa ou seus diretores ou funcionários serão responsáveis ​​sob este Contrato pelo Programador ou qualquer terceiro por qualquer perda ou dano indireto, especial, incidental, punitivo ou consequencial ou quaisquer outros danos semelhantes sob qualquer teoria de responsabilidade (seja em contrato, responsabilidade civil, responsabilidade objetiva ou qualquer outra teoria), que sejam direta ou indiretamente atribuíveis ao uso ou à incapacidade de usar a API do %1, ou qualquer conteúdo nele contido, mesmo que a Empresa tenha sido informada a possibilidade disso."
@@ -13101,6 +13269,10 @@ msgstr "Enviar o verso da carteira nacional direto do seu computador"
 msgid "Upload back of license from your computer"
 msgstr "Enviar o verso da carteira de condução direto do seu computador"
 
+msgid "Upload document"
+msgstr "\n"
+"Carregar documento"
+
 msgid "Upload front of card from your computer"
 msgstr "Enviar a frente da carteira nacional direto do seu computador"
 
@@ -13136,6 +13308,12 @@ msgstr "Após a expiração ou rescisão deste Contrato, por qualquer motivo, to
 
 msgid "Usage limit"
 msgstr "Limite de utilização"
+
+msgid "Use a few words, avoid common phrases"
+msgstr "Use poucas palavras, evite frases comuns"
+
+msgid "Use a longer keyboard pattern with more turns"
+msgstr "Use um padrão de teclado mais longo com mais voltas"
 
 msgid "Use advanced data analytics skills to study trends/pattern in financial markets"
 msgstr "Use habilidades avançadas de análise de dados para estudar tendências/padrões nos mercados financeiros"
@@ -13236,24 +13414,12 @@ msgstr "Verificar e aprovar pedidos de depósito e retirada dos clientes"
 msgid "Verify identity"
 msgstr "Verificar identidade"
 
-msgid "Verify main password"
-msgstr "Verificar senha principal"
-
-msgid "Verify new MT5 password"
-msgstr "Verificar a nova senha da MT5"
-
-msgid "Verify new password"
-msgstr "Verifique a nova senha"
-
 msgid "Version 49. Last modified 23-11-2020."
 msgstr "\n"
 "Versão 49. Última modificação em 23-11-2020."
 
 msgid "Video Room Facility"
 msgstr "Recurso de sala de vídeo"
-
-msgid "Video tutorial"
-msgstr "Tutorial em vídeo"
 
 msgid "View"
 msgstr "Ver"
@@ -13516,9 +13682,6 @@ msgstr "Carregar uma selfie do seu computador"
 msgid "We're almost there"
 msgstr "Estamos quase lá"
 
-msgid "We're expected to generate over 2 USD billion in turnover this year, bringing our total turnover since inception to over 9.2 USD billion."
-msgstr "Esperamos gerar mais de 2 bilhões de dólares em faturamento este ano, elevando nosso faturamento total desde o início a mais de 9,2 bilhões de dólares."
-
 msgid "We're granted patents for 'Computer trading system and method for speculating on a financial market' and 'Computer trading system for offering custom financial market speculations'. The patents show our ability to innovate and stay ahead of the pack."
 msgstr "São nos concedidas patentes para \"Sistema de negociação informático e método para especulação nos mercados financeiros\" e \"Sistema de negociação informático para a oferta de especulações personalizadas sobre mercados financeiros\". As patentes mostram a nossa capacidade de inovar e ficar à frente dos nossos concorrentes."
 
@@ -13531,17 +13694,18 @@ msgstr "Não estamos obrigados a realizar testes de adequação, nem de lhe forn
 msgid "We're now ready to verify your identity"
 msgstr "Agora estamos prontos para verificar sua identidade"
 
-msgid "We're projected to register over 377 million transactions this year, bringing the total number of contracts that were bought and sold on our platform since inception to over 1.42 billion."
-msgstr "Projeta-se que vamos registar mais de 377 milhões de transações este ano, elevando o número total de contratos que foram comprados e vendidos na nossa plataforma desde a sua criação para mais de 1.42 bilhões."
+msgid "We're projected to register over 1.1 billion transactions this year, bringing the total number of contracts that were bought and sold on our platform since inception to over 2.8 billion."
+msgstr "Projeta-se que vamos registar mais de 1.1 bilhões de transações este ano, elevando o número total de contratos que foram comprados e vendidos na nossa plataforma desde a sua criação para mais de 2.8 bilhões."
 
 msgid "We're really proud of this award. We're strongly committed to offering an ethical and customer-focused trading experience, and the award shows that BetOnMarkets is a trusted brand that listens and caters to customers, whether they are experienced traders or novices. We offer customer services in English, Indonesian, Russian, Chinese and Spanish."
 msgstr "Estamos muito orgulhosos deste prêmio. Estamos fortemente empenhados em oferecer uma experiência de negociação ética e com foco no cliente, e o prêmio mostra que a BetOnMarkets é uma marca confiável que escuta e atende aos clientes, sejam eles negociadores experientes ou iniciantes. Oferecemos serviços ao cliente em inglês, indonésio, russo, chinês e espanhol."
 
 msgid "We're sorry to see you leave."
-msgstr ""
+msgstr "\n"
+"Lamentamos ver você sair."
 
-msgid "We've grown in size over the years - both in terms of manpower and offices. We currently have over %1 employees across four offices in Malaysia, Malta, Paraguay and Dubai. Further growth in headcount is expected this year to cater to the increased demand in our products and services."
-msgstr "Crescemos em tamanho ao longo dos anos - em termos de mão de obra e escritórios. Atualmente, temos mais de %1 funcionários em quatro escritórios na Malásia, Malta, Paraguai e Dubai. Espera-se para este ano um crescimento maior no número de funcionários para atender o aumento da demanda de nossos produtos e serviços."
+msgid "We've grown in size over the years - both in terms of manpower and offices. We currently have over %1 employees across 10 offices in Malta, Dubai, Malaysia, Paraguay, Cyprus, Rwanda, and Belarus. Further growth in headcount is expected this year to cater to the increased demand in our products and services."
+msgstr "Crescemos em tamanho ao longo dos anos - em termos de mão de obra e escritórios. Atualmente, temos mais de %1 funcionários em 10 escritórios na Malta, Dubai, Malásia, Paraguai, Chipre, Ruanda e Bielorússia. Espera-se para este ano um crescimento maior no número de funcionários para atender o aumento da demanda de nossos produtos e serviços."
 
 msgid "We've sent a secure link to %{number}"
 msgstr "Enviamos um link seguro para %{number}"
@@ -13910,8 +14074,8 @@ msgstr "Ganhe o multiplicador vezes a alta menos o fechamento."
 msgid "Win the multiplier times the high minus low."
 msgstr "Ganhe o multiplicador vezes a alta menos a baixa."
 
-msgid "Windows"
-msgstr "Windows"
+msgid "Windows or Linux"
+msgstr "Windows ou Linux"
 
 msgid "Winning the contract"
 msgstr "Ganhar o Contrato"
@@ -13970,11 +14134,11 @@ msgstr "A retirada de fundos da Conta Real MT5 do cliente pode ser feita em uma 
 msgid "Withdrawal via payment agent is available only if you deposit exclusively via payment agent."
 msgstr "Nota: Retiradas através de agentes de pagamento estão disponíveis apenas se você deposita exclusivamente através de agentes de pagamento."
 
-msgid "Withdrawal: %1 to %2 working days"
-msgstr "Retiradas: %1 a %2 dias úteis"
+msgid "Withdrawal: %1 day"
+msgstr "Retirada: %1 dia"
 
-msgid "Withdrawal: %1 working day"
-msgstr "Retirada: %1 dia útil"
+msgid "Withdrawal: %1 to %2 days"
+msgstr "Retiradas: %1 a %2 dias"
 
 msgid "Withdrawal: Not applicable"
 msgstr "Retirada: Não aplicável"
@@ -14030,6 +14194,15 @@ msgstr "Escrever código robusto, de alta qualidade e prontos para a produção 
 msgid "Written limits and self-exclusion"
 msgstr "Limites escritos e auto-exclusão"
 
+msgid "XMR vs US dollar"
+msgstr "XMR vs Dolar Americano "
+
+msgid "XMR/USD"
+msgstr "XMR/USD"
+
+msgid "XRP/USD"
+msgstr "XRP/USD"
+
 msgid "Yes"
 msgstr "Sim"
 
@@ -14069,6 +14242,12 @@ msgstr "Você é responsável por mitigar os riscos e violações que enfrentamo
 msgid "You are selling the base currency and buying the quote currency."
 msgstr "Você está vendendo a moeda de base e comprando a moeda de cotação."
 
+msgid "You can %1open a cryptocurrency%2 account without closing your fiat currency account."
+msgstr "Você pode %1abrir uma conta de criptomoeda%2 sem fechar sua conta de moeda fiduciária."
+
+msgid "You can %1open a real account%2 without closing your demo account."
+msgstr "Você pode %1abrir uma conta real%2 sem fechar sua conta demo."
+
 msgid "You can %1set a new currency%2 before you deposit for the first time or create an MT5 account."
 msgstr "Você pode %1definir uma nova moeda%2 antes de depositar pela primeira vez ou criar uma conta MT5."
 
@@ -14105,8 +14284,14 @@ msgstr "Você não pode mais alterar a moeda porque já fez um ou mais depósito
 msgid "You can now return to your computer to continue"
 msgstr "Agora você pode retornar ao seu computador para continuar"
 
+msgid "You can open a fiat currency account without closing your cryptocurrency account."
+msgstr "Você pode abrir uma conta em moeda fiduciária sem precisar fechar sua conta de criptomoeda."
+
 msgid "You can sell your contract before expiry to keep any profit you may have made or to minimise your loss."
 msgstr "É possível vender os seus contratos antes da expiração para proteger quaisquer lucros que possa ter realizado ou para minimizar as suas perdas"
+
+msgid "You can set limits to your account and trading activities. Go to the %1self-exclusion page%2 to manage your account limits."
+msgstr "Você pode definir limites para sua conta e atividades de negociação. Vá para a página %1Auto Exclusão%2 para gerenciar os limites da sua conta."
 
 msgid "You can top up your demo account with an additional %1 if your balance is %2 or less."
 msgstr "É possível carregar mais %1 para a sua conta demo quando você tem %2 ou menos de saldo."
@@ -14129,11 +14314,20 @@ msgstr "Você espera que o valor de %1 desça para que possa comprá-lo de volta
 msgid "You expect the %1 to rise in value so you can sell it back for a profit."
 msgstr "Você espera que o valor de %1 suba para que possa vendê-lo de volta por um preço inferior e fazer lucro."
 
+msgid "You have %1. You may open one or %2more cryptocurrency%3 accounts:"
+msgstr "Você tem as contas %1. Você pode abrir uma ou %2mais contas de criptomoedas%3:"
+
+msgid "You have a %1 account. You may %2change your currency%3 to any of the following as long as you haven't made a deposit or created an MT5 account:"
+msgstr "Você tem uma conta %1. Você pode %2alterar sua moeda%3 para uma das moedas abaixo, desde que você ainda não tenha feito um depósito ou criado uma conta MT5:"
+
 msgid "You have already withdrawn %1%2 in aggregate over the last %3 days."
 msgstr "Você já retirou %1%2 em agregado nos últimos %3 dias."
 
 msgid "You have already withdrawn %1%2."
 msgstr "Você já retirou %1%2."
+
+msgid "You have an account but have not set a currency. You may %1choose one%2 of these as your account currency"
+msgstr "Você tem uma conta, mas não definiu sua moeda. Você pode %1escolher uma%2 dessas moedas para sua conta."
 
 msgid "You have created all accounts available to you."
 msgstr "Você já criou todas as contas disponíveis para você."
@@ -14203,6 +14397,12 @@ msgstr "Apenas é possível transferir fundos entre contas de moeda fiduciária 
 
 msgid "You may open one account for each supported cryptocurrency."
 msgstr "Você pode abrir uma conta para cada criptomoeda suportada."
+
+msgid "You must also submit a proof of address."
+msgstr "Você também deve enviar um comprovante de endereço."
+
+msgid "You must also submit a proof of identity."
+msgstr "Você também deve enviar um comprovante de identidade."
 
 msgid "You must ensure that potential clients are aware of the prohibition on insider trading based on confidential information. If you have any suspicion that such trading is taking place you must inform %1compliance@binary.com%2."
 msgstr "Você deve garantir que os clientes em potencial estejam cientes da proibição de informações privilegiadas com base em informações confidenciais. Se você suspeitar que isso está ocorrendo, informe %1compliance@binary.com%2."
@@ -14297,6 +14497,12 @@ msgstr "Você está usando uma conta virtual."
 msgid "You've carried out significant transactions on markets similar to the ones we offer, averaging 10 transactions per quarter for the previous four quarters"
 msgstr "Você já efetuou transações significantes em mercados semelhantes àqueles que disponibilizamos, com uma média de 10 transações por trimestre durante os últimos quatro trimestres"
 
+msgid "You've made no transactions of this type up to this date."
+msgstr "Você não fez nenhuma transação deste tipo até esta data."
+
+msgid "You've reached the limit for uploading your documents."
+msgstr "Você atingiu o limite de upload de seus documentos."
+
 msgid "You've worked in the financial sector for at least one year in a role that requires knowledge of your intended transactions on our platform"
 msgstr "Você já trabalhou no setor financeiro durante pelo menos um ano numa função que requeira conhecimentos relacionados com as transações que você pretende realizar na nossa plataforma"
 
@@ -14336,14 +14542,12 @@ msgstr "Sua conta foi autenticada com sucesso"
 msgid "Your account has no Login/Logout activity."
 msgstr "A sua conta não tem nenhuma atividade de login/sair."
 
-msgid "Your account has no trading activity."
-msgstr "A sua conta não tem nenhuma atividade de negociação."
-
 msgid "Your account is fully authenticated and your withdrawal limits have been lifted."
 msgstr "A sua conta está totalmente autenticada e os seus limites de retirada de fundos foram aumentados."
 
-msgid "Your account is now deactived."
-msgstr ""
+msgid "Your account is now deactivated."
+msgstr "\n"
+"Sua conta agora está desativada."
 
 msgid "Your account is restricted. Kindly %1contact customer support%2 for assistance."
 msgstr "A sua conta está restrita. Contate o %1apoio ao cliente%2 para mais informações"
@@ -14384,8 +14588,14 @@ msgstr "O seu computador pode demorar alguns segundos para atualizar"
 msgid "Your demo account balance is currently %1 or less. You may top up your account with an additional %2."
 msgstr "O saldo da sua conta demo está atualmente equivalente a %1 ou menos. É possível carregar mais %2 para a sua conta."
 
-msgid "Your document is being reviewed, please check back in 1-3 days"
-msgstr "Seu documento está sendo analisado. Verifique novamente em 1 a 3 dias"
+msgid "Your document is being reviewed, please check back in 1-3 days."
+msgstr "Seu documento está sendo analisado. Verifique novamente em 1 a 3 dias."
+
+msgid "Your document is being reviewed, please check back in 1-3 days. You must also submit a proof of address."
+msgstr "Seu documento está sendo analisado. Verifique novamente em 1 a 3 dias. Você também deve enviar um comprovante de endereço."
+
+msgid "Your document is being reviewed, please check back in 1-3 days. You must also submit a proof of identity."
+msgstr "Seu documento está sendo analisado. Verifique novamente em 1 a 3 dias. Você também deve enviar um comprovante de identidade."
 
 msgid "Your face is needed in the selfie"
 msgstr "Seu rosto é necessário na selfie"
@@ -14420,9 +14630,6 @@ msgstr "A sua senha foi alterada. Conecte-se novamente."
 msgid "Your password has been successfully reset. Please log into your account using your new password."
 msgstr "A sua senha foi redefinida com sucesso. Por favor, inicie sessão na sua conta, usando a sua nova senha."
 
-msgid "Your password is one of the most commonly used passwords on the internet. Please choose a unique password."
-msgstr "Sua senha é uma das senhas mais usadas na internet. Por favor, escolha uma senha única."
-
 msgid "Your professional client request is %1not approved%2."
 msgstr "O seu requerimento para ser tratado como um cliente profissional %1não foi aprovado%2."
 
@@ -14443,6 +14650,10 @@ msgstr "Seu comprovante de identidade foi verificado com sucesso"
 
 msgid "Your proof of identity has expired"
 msgstr "Seu comprovante de identidade expirou ou não é mais válido"
+
+msgid "Your proof of identity submission failed because:"
+msgstr "\n"
+"O envio do seu comprovante de identidade falhou porque:"
 
 msgid "Your proof of identity was submitted successfully"
 msgstr "Seu comprovante de identidade foi enviado com sucesso"
@@ -14483,6 +14694,10 @@ msgstr "A referência da sua transação é"
 msgid "Your transaction reference number is %1"
 msgstr "O número de referência da sua transação é %1"
 
+msgid "Your virtual balance has been reset."
+msgstr "\n"
+"Seu saldo virtual foi redefinido."
+
 msgid "Your web browser (%1) is out of date and may affect your trading experience. Proceed at your own risk. %2Update browser%3"
 msgstr "O seu navegador web (%1) está desatualizado e pode afetar a sua experiência de negociação. Prossiga por sua conta e risco. %2Atualize navegador%3"
 
@@ -14497,6 +14712,13 @@ msgstr "Seu limite de retirada é %1%2."
 
 msgid "You’ll be logged out automatically."
 msgstr "Você será desconectado automaticamente."
+
+msgid "ZEC vs US dollar"
+msgstr "\n"
+"ZEC vs Dólar Americano"
+
+msgid "ZEC/USD"
+msgstr "ZEC/USD"
 
 msgid "ZingPay is a payment facility that allows online bank transfers for clients in South Africa."
 msgstr "O ZingPay é um mecanismo de pagamento que permite transferências bancárias online para clientes na África do Sul."
@@ -14533,6 +14755,12 @@ msgstr "uma unidade de transação representando uma quantidade padronizada do A
 
 msgid "a. Access the MT5 trading platform through the direct link %1 from DIEL's web interface, or"
 msgstr "a. Acesse a plataforma de negociação MT5 através do link direto %1 na interface da DIEL na web, ou"
+
+msgid "account"
+msgstr "conta"
+
+msgid "accounts"
+msgstr "contas"
 
 msgid "an Order to execute a transaction to close an Open Position when the price reaches the client's specified price"
 msgstr "um Pedido para executar uma transação para fechar uma Posição Aberta quando o preço atingir o preço especificado do cliente"
@@ -14599,9 +14827,6 @@ msgstr "conectar"
 
 msgid "logout"
 msgstr "sair"
-
-msgid "million"
-msgstr "milhões"
 
 msgid "minute"
 msgstr "minuto"
@@ -14675,9 +14900,6 @@ msgstr "a moeda ou instrumento financeiro subjacente, na qual o preço do CFD é
 msgid "there was a connection error. Please try again later."
 msgstr "houve um erro de conexão. Por favor, tente novamente mais tarde."
 
-msgid "thousand"
-msgstr "mil"
-
 msgid "tick"
 msgstr "tique-taque"
 
@@ -14692,9 +14914,6 @@ msgstr "hoje, sextas-feiras"
 
 msgid "virtual money credit to account"
 msgstr "crédito de dinheiro virtual em conta"
-
-msgid "years"
-msgstr "anos"
 
 msgid "{SPAIN ONLY}However, Binary Investments (Europe) Ltd has assessed your knowledge and experience and deems the product appropriate for you."
 msgstr "{SPAIN ONLY}However, Binary Investments (Europe) Ltd has assessed your knowledge and experience and deems the product appropriate for you."

@@ -1054,6 +1054,32 @@ body #not_authenticated_financial ul.checked > li {
         display: inline-block;
         margin-left: 5px;
     }
+    ul.rejected > li {
+        background: url('../images/pages/authenticate/error.svg') no-repeat left 0.3em;
+        width: fit-content;
+        text-align: left;
+        padding-left: 1.4em;
+        margin-top: 1em;
+        min-height: auto;
+    }
+    #last_rejection {
+        &_poi {
+            span {
+                cursor: pointer;
+                color: $COLOR_ORANGE;
+
+                &:hover {
+                    text-decoration: underline;
+                }
+            }
+        }
+        &_button {
+            margin-top: 1.4em;
+        }
+        &_list {
+            margin-bottom: 0.9em;
+        }
+    }
     #resolve_error {
         color: $COLOR_RED;
     }
@@ -1596,35 +1622,12 @@ body #not_authenticated_financial ul.checked > li {
 }
 
 .account-closure {
-    .notice-msg-wrapper {
-        background-color: $COLOR_YELLOW;
-        margin-top: 65px;
-    }
-    .notice-msg-text {
-        color: $COLOR_BLACK;
-        overflow: hidden;
-        margin: 0;
-        text-align: center;
-    }
     &-form {
         text-align: left;
         line-height: 40px;
 
-        .margin-top-20 {
-            margin-top: 20px;
-        }
-        .textarea-container {
-            display: grid;
-        }
-        p {
-            font-size: 1rem;
-        }
-        textarea {
-            width: 90%;
-            max-width: 350px;
-            height: 80px;
-            margin-top: 10px;
-            margin-bottom: 10px;
+        span {
+            padding-left: 15px;
         }
     }
     &-subtitle {
