@@ -10,7 +10,6 @@ const DerivBanner = require('../common/deriv_banner');
 const GTM = require('../../_common/base/gtm');
 const Login = require('../../_common/base/login');
 const LiveChat = require('../../_common/base/livechat');
-// const State = require('../../_common/storage').State;
 const getElementById = require('../../_common/common_functions').getElementById;
 const urlLang = require('../../_common/language').urlLang;
 const localizeForLang = require('../../_common/localize').forLang;
