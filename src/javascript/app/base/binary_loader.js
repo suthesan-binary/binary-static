@@ -10,7 +10,7 @@ const DerivBanner = require('../common/deriv_banner');
 const GTM = require('../../_common/base/gtm');
 const Login = require('../../_common/base/login');
 const LiveChat = require('../../_common/base/livechat');
-const State = require('../../_common/storage').State;
+// const State = require('../../_common/storage').State;
 const getElementById = require('../../_common/common_functions').getElementById;
 const urlLang = require('../../_common/language').urlLang;
 const localizeForLang = require('../../_common/localize').forLang;
@@ -101,13 +101,6 @@ const BinaryLoader = (() => {
         if (active_script) {
             BinarySocket.setOnReconnect(active_script.onReconnect);
         }
-
-        BinarySocket.wait('website_status').then(() => {
-            const is_uk_residence = (Client.get('residence') === 'gb' || State.getResponse('website_status.clients_country') === 'gb');
-            if (is_uk_residence || Client.get('landing_company_shortcode') === 'iom') {
-                getElementById('gamstop_uk_display').setVisibility(1);
-            }
-        });
     };
 
     const error_messages = {
